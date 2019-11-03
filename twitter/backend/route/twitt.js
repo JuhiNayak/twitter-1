@@ -3,10 +3,10 @@ const cors = require("cors");
 var Twit = require("twit");
 
 var T = new Twit({
-  consumer_key: 		'SdHvNDEQd5kWb5vyPxDUK4ipb',
-  consumer_secret:      '2sBj6CLrpjhM4zZSZISsva3J0eIuMmOtuEi1AYDblesITEwRBL',
-  access_token:         '1174214007647080449-GeFbiTnZB3nF8Nh2E7evqPgUR0I3fP',
-  access_token_secret:  'UZXe9JfKFc509uTEyNo7vtelCZ6T69zlqLPTzu6enh6ip'
+  consumer_key: 		'',
+  consumer_secret:      '',
+  access_token:         '',
+  access_token_secret:  ''
 });
 
 // 1 Search/tweets
